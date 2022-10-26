@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b81f4d-a6dc-423f-8f2f-90f882e22587" name="Changes" comment="Ready project">
+    <list default="true" id="14b81f4d-a6dc-423f-8f2f-90f882e22587" name="Changes" comment="Updated .gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemons/Cosmog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pokemons/Cosmog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemons/Lombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pokemons/Lombre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemons/Lotad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pokemons/Lotad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemons/Ludicolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pokemons/Ludicolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemons/Tyrantrum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pokemons/Tyrantrum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemons/Tyrunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pokemons/Tyrunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="github/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666815227179</updated>
-      <workItem from="1666815229936" duration="627000" />
+      <workItem from="1666815229936" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="Ready project">
       <created>1666815589343</created>
@@ -76,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666815589343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ready project">
+      <created>1666815864195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666815864195</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated .gitignore">
+      <created>1666816229290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666816229290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +98,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -95,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ready project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ready project" />
+    <MESSAGE value="Updated .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitignore" />
   </component>
 </project>
