@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b81f4d-a6dc-423f-8f2f-90f882e22587" name="Changes" comment="Updated .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Pokemon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Pokemon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/libs/Pokemon.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pokemons/Cosmog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pokemons/Cosmog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pokemons/Lombre.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pokemons/Lombre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pokemons/Lotad.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pokemons/Lotad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pokemons/Ludicolo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pokemons/Ludicolo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pokemons/Tyrantrum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pokemons/Tyrantrum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pokemons/Tyrunt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pokemons/Tyrunt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +30,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2GgfcOCDPGNt6tkQuiK9C7nLwr1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,14 +48,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/code/pokemon-lab",
+    "last_opened_file_path": "E:/code/pokemon-lab/src/main/java/libs/Pokemon.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
@@ -64,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666815227179</updated>
-      <workItem from="1666815229936" duration="1333000" />
+      <workItem from="1666815229936" duration="1617000" />
+      <workItem from="1666821263781" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="Ready project">
       <created>1666815589343</created>
@@ -87,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666816229290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated .gitignore">
+      <created>1666816832251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666816832251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
