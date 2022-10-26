@@ -12,7 +12,7 @@ public class Cosmog extends Pokemon {
         super(pokemonName, pokemonLevel);
         setStats(43,29, 31, 29, 31, 37);
         setType(Type.PSYCHIC);
-        setMove(new ShadowBall(), new Waterfall(), new Moonblast());
+        setMove(new ShadowBall(), new Waterfall(), new Moonblast(), new Waterfall());
     }
 }
 
