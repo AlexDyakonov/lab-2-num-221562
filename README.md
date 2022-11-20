@@ -37,4 +37,4 @@
 ## 2. Покемоны
 ![pokemons](./src/main/images/poke.png)
 ## 3. Диаграмма классов
-
+![uml](./src/main/images/uml.png)
