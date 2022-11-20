@@ -8,3 +8,9 @@
 /dataSources.local.xml
 pom.xml
 workspace.xml
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.properties

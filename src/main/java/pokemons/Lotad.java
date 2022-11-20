@@ -14,9 +14,5 @@ public class Lotad extends Pokemon {
         setStats(40,30, 30, 40, 50, 30);
         setType(Type.WATER, Type.GRASS);
         setMove(new Astonish(), new Rest());
-//        setMod();
     }
-
-
-
 }

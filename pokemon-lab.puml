@@ -1,0 +1,87 @@
+@startuml
+class attacks.BrutalSwing {
+# void applyOppDamage(Pokemon,double)
+# String describe()
+}
+class attacks.Waterfall {
+# void applyOppDamage(Pokemon,double)
+# void applyOppEffects(Pokemon)
+# String describe()
+}
+class pokemons.Tyrunt {
+}
+class pokemons.Lotad {
+}
+class Main {
++ {static} void main(String[])
+}
+class attacks.Absorb {
+# void applyOppDamage(Pokemon,double)
+# void applySelfEffects(Pokemon)
+# String describe()
+}
+class attacks.Bite {
+# void applyOppDamage(Pokemon,double)
+# void applyOppEffects(Pokemon)
+# String describe()
+}
+class attacks.ShadowBall {
+# void applyOppDamage(Pokemon,double)
+# void applySelfEffects(Pokemon)
+# String describe()
+}
+class attacks.Astonish {
+# void applyOppDamage(Pokemon,double)
+# void applyOppEffects(Pokemon)
+# String describe()
+}
+class pokemons.Cosmog {
+}
+class attacks.Rest {
+# void applySelfEffects(Pokemon)
+# String describe()
+}
+class pokemons.Lombre {
+}
+class pokemons.Tyrantrum {
+}
+class attacks.RockPolish {
+# void applySelfEffects(Pokemon)
+# String describe()
+}
+class attacks.Moonblast {
+# void applyOppDamage(Pokemon,double)
+# void applyOppEffects(Pokemon)
+# String describe()
+}
+class attacks.Withdraw {
+# void applySelfEffects(Pokemon)
+# String describe()
+}
+class attacks.DarkPulse {
+# void applyOppDamage(Pokemon,double)
+# void applyOppEffects(Pokemon)
+# String describe()
+}
+class pokemons.Ludicolo {
+}
+
+
+attacks.PhysicalMove <|-- attacks.BrutalSwing
+attacks.PhysicalMove <|-- attacks.Waterfall
+ru.ifmo.se.pokemon.Pokemon <|-- pokemons.Tyrunt
+ru.ifmo.se.pokemon.Pokemon <|-- pokemons.Lotad
+attacks.SpecialMove <|-- attacks.Absorb
+attacks.PhysicalMove <|-- attacks.Bite
+attacks.SpecialMove <|-- attacks.ShadowBall
+attacks.PhysicalMove <|-- attacks.Astonish
+ru.ifmo.se.pokemon.Pokemon <|-- pokemons.Cosmog
+attacks.StatusMove <|-- attacks.Rest
+pokemons.Lotad <|-- pokemons.Lombre
+pokemons.Tyrunt <|-- pokemons.Tyrantrum
+attacks.StatusMove <|-- attacks.RockPolish
+attacks.SpecialMove <|-- attacks.Moonblast
+attacks.StatusMove <|-- attacks.Withdraw
+attacks.SpecialMove <|-- attacks.DarkPulse
+pokemons.Lombre <|-- pokemons.Ludicolo
+@enduml
